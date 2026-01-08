@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+ultralytics
+opencv-python-headless
+pydantic
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+sqlalchemy
+aiofiles
+httpx
+pytest
+requests
