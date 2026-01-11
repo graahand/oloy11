@@ -5,7 +5,7 @@ This document helps you understand which patterns you'll see in **EVERY** FastAP
 
 ---
 
-## ✅ RECURRING PATTERNS (You'll see these EVERYWHERE)
+##  RECURRING PATTERNS (You'll see these EVERYWHERE)
 
 ### 1. **Configuration Management** (`app/config.py`)
 **Will recur:**
@@ -130,7 +130,7 @@ This document helps you understand which patterns you'll see in **EVERY** FastAP
 
 ---
 
-## 🎯 PROJECT-SPECIFIC PATTERNS (Specific to this ML API)
+##  PROJECT-SPECIFIC PATTERNS (Specific to this ML API)
 
 ### 1. **Model Management** (`app/utils.py`)
 **Specific to ML projects:**
@@ -172,7 +172,7 @@ This document helps you understand which patterns you'll see in **EVERY** FastAP
 
 ---
 
-## 📚 Key Concepts to Master
+## Key Concepts to Master
 
 ### Dependency Injection
 ```python
@@ -211,7 +211,7 @@ def endpoint():
 
 ---
 
-## 🚀 What You Should Practice
+##  What You Should Practice
 
 1. **Setting up new FastAPI projects** - Configuration, database, auth
 2. **Creating CRUD endpoints** - Create, Read, Update, Delete
@@ -224,7 +224,7 @@ def endpoint():
 
 ---
 
-## 📖 Recommended Next Steps
+## Recommended Next Steps
 
 1. **Modify this project:**
    - Add password reset functionality
@@ -249,7 +249,7 @@ def endpoint():
 
 ---
 
-## 🎓 Resources
+##  Resources
 
 - **Official FastAPI Docs:** https://fastapi.tiangolo.com/
 - **SQLAlchemy Docs:** https://docs.sqlalchemy.org/
